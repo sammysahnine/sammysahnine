@@ -1,7 +1,6 @@
 ### Hello!
   
 🏫 BSc Computer Science student at the University of Nottingham  
-🧑‍💻 Not awful at Python, C, Haskell and Swift  
-☕️ A smidge more awful at Java (Runs on 3 billion devices)  
+🧑‍💻 I like things like ARM32 Assembly, C, Haskell and Swift  
   
 Reach me at `me <at> sammysahnine.com`
